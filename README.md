@@ -29,7 +29,7 @@ This Power BI dashboard provides comprehensive analysis of loan defaults, borrow
 - Income Bracket Risk Assessment
 - Credit Score & Marital Status Analysis
 
-### Financial Risk Metrics
+  ### Financial Risk Metrics
 ![Financial Risk Metrics](./Financial%20Risk%20Metrics.png)
 
 ## Tools Used
