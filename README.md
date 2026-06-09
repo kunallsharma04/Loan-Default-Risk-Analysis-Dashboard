@@ -23,6 +23,20 @@ This Power BI dashboard provides comprehensive analysis of loan defaults, borrow
 - Income Bracket Risk Assessment
 - Credit Score & Marital Status Analysis
 
+
+  # Loan Default Risk Analysis Dashboard
+
+## Dashboard Preview
+
+### Loan Default & Overview
+![Loan Default & Overview](./Loan%20Default%20%26%20Overview.png)
+
+### Applicant Demographics & Financial Profile
+![Applicant Demographics & Financial Profile](./Applicant%20Demographics%20%26%20Financial%20Profile.png)
+
+### Financial Risk Metrics
+![Financial Risk Metrics](./Financial%20Risk%20Metrics.png)
+
 ## Tools Used
 - Power BI
 - DAX
