@@ -39,3 +39,11 @@ This Power BI dashboard provides comprehensive analysis of loan defaults, borrow
 
 ## Business Impact
 Identified borrower segments with higher default risk and provided insights for better credit risk assessment and lending decisions.
+
+👨‍💻 Author
+
+Kunal Sharma
+
+Aspiring Data Analyst | Power BI Developer | Business Intelligence Enthusiast
+
+GitHub: https://github.com/kunallsharma04
